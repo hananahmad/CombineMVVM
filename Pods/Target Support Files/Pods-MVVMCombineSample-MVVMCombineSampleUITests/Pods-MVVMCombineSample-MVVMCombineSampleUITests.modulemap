@@ -1,0 +1,6 @@
+framework module Pods_MVVMCombineSample_MVVMCombineSampleUITests {
+  umbrella header "Pods-MVVMCombineSample-MVVMCombineSampleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
